@@ -57,4 +57,4 @@ Parisaara-Cycle addresses these challenges by providing a digital solution for s
 
  ## C Naveen Kumar Reddy  
 Android  App Development using GenAI Internship Project  
-MindMatrix Internship  
+MindMatrix Internship
